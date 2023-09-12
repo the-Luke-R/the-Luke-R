@@ -11,7 +11,7 @@ These days, empowerment is a frequent topic, and programming is no exception. Th
 ## About me
 
 Hello, visitor, my name is Lucas Rosada, also known as the-Luke-R, and I'm a back-end programmer. I'm passionate about development, creating programs, machine learning, image generation, video creation/editing, moding games, and streamlining processes. I work on projects in my spare time, some of which involve AI.
-#
+
 
 ## OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
