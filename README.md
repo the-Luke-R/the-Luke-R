@@ -25,7 +25,7 @@ Hello, visitor, my name is Lucas Rosada, also known as the-Luke-R, and I'm a bac
 [![My Skills](https://skillicons.dev/icons?i=cpp,java)](https://skillicons.dev)
 
 ## Others tools that I also use
- ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+ ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 #
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
